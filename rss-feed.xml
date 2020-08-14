@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>GarethB</title>
+		<description>Fantasy, Sci-Fi and Thriller Book Reviews</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Raising Steam by Terry Pratchett</title>
+				
+				
+					<description>&lt;p&gt;This is the third Moist Von Lipwig novel (Going Postal and Making Money) being the first two and its great. Not as good as the earlier ones but Terry has a high bar.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 24 Apr 2020 00:00:00 +0100</pubDate>
+				<link>http://localhost:4444/sci-fi/raising-steam</link>
+				<guid isPermaLink="true">http://localhost:4444/sci-fi/raising-steam</guid>
+			</item>
+		
+			<item>
+				<title>Jack Reacher 24 - Blue Moon by Lee Childs</title>
+				
+				
+					<description>&lt;p&gt;Having asked for it for Christmas I bought this one shortly after.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+				<link>http://localhost:4444/thrillers/blue-moon</link>
+				<guid isPermaLink="true">http://localhost:4444/thrillers/blue-moon</guid>
+			</item>
+		
+			<item>
+				<title>Jack Reacher 23 - Past Tense by Lee Childs</title>
+				
+				
+					<description>&lt;p&gt;It’s becoming a tradition that I ask for the new Reacher novel as my secret Santa gift. Then buy it if I don’t get it, which is what happened this year.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+				<link>http://localhost:4444/thrillers/past-tense</link>
+				<guid isPermaLink="true">http://localhost:4444/thrillers/past-tense</guid>
+			</item>
+		
+			<item>
+				<title>The Glass Magician by Charlie N. Homberg</title>
+				
+				
+					<description>&lt;p&gt;I’d managed to get in a book loop before Christmas, I’d started a book, then another, then another and, thankfully, finishing this one brought me out of that cycle. Thankfully. It was like a book inception.&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+				<link>http://localhost:4444/magical-realism/the-glass-magician</link>
+				<guid isPermaLink="true">http://localhost:4444/magical-realism/the-glass-magician</guid>
+			</item>
+		
+			<item>
+				<title>War of Kings, Part 1 by Brandon Sanderson</title>
+				
+				
+					<description>&lt;p&gt;This is the first part of a two part book in the Stormlight archive. I’d read the &lt;a href=&quot;https://garethb.co.uk/fantasy/the-mistborn-trilogy&quot;&gt;Mistborn Trilogy&lt;/a&gt; and really liked that so thought this might be good, and it was.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 15 Jun 2018 00:00:00 +0100</pubDate>
+				<link>http://localhost:4444/fantasy/war-of-kings</link>
+				<guid isPermaLink="true">http://localhost:4444/fantasy/war-of-kings</guid>
+			</item>
+		
+			<item>
+				<title>Red Sister by Mark Lawrence</title>
+				
+				
+					<description>&lt;p&gt;I really like Mark Lawrence, his first trilogy the Prince of Thorns was great so I was looking forward to the first one in this trilogy (well, I’m assuming it’s a trilogy…..). This is a departure from the ‘grimdark’ styling of his first two trilogies and uses a woman as the main character rather than the male protagonists of the other two.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 02 Jun 2018 00:00:00 +0100</pubDate>
+				<link>http://localhost:4444/fantasy/red-sister</link>
+				<guid isPermaLink="true">http://localhost:4444/fantasy/red-sister</guid>
+			</item>
+		
+			<item>
+				<title>The Paper Magician by Charlie N. Homberg</title>
+				
+				
+					<description>&lt;p&gt;I’d seen this book a fair bit before I bought it and I’m glad I did. I’d always liked the cover and it’s a pretty book. The cover does a great job of distilling the books setting, which to me felt like Georgette Heyer with magic. The time period is slightly later than that, it felt Victorian but it had the same attention to detail when it came to things like clothes.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+				<link>http://localhost:4444/magical-realism/the-paper-magician</link>
+				<guid isPermaLink="true">http://localhost:4444/magical-realism/the-paper-magician</guid>
+			</item>
+		
+			<item>
+				<title>Kings of the Wild by Nicholas Eames</title>
+				
+				
+					<description>&lt;p&gt;This was recommended by a friend of mine and was a, fairly unusual, Kindle purchase. It was also the Fantasy Faction 2017 book of the year. So, I had high expectations of it.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+				<link>http://localhost:4444/fantasy/kings-of-the-wild</link>
+				<guid isPermaLink="true">http://localhost:4444/fantasy/kings-of-the-wild</guid>
+			</item>
+		
+			<item>
+				<title>Jack Reacher 22: Midnight Line by Lee Child</title>
+				
+				
+					<description>&lt;p&gt;Somehow, there have been 22 Jack Reacher novels written. Somehow, I think I’ve read all of them. I don’t always like them and Jack Reacher 20 was just too dark for me. I couldn’t get past how grim the plot line was.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+				<link>http://localhost:4444/thrillers/midnight-line</link>
+				<guid isPermaLink="true">http://localhost:4444/thrillers/midnight-line</guid>
+			</item>
+		
+			<item>
+				<title>Missing You by Harlen Coben</title>
+				
+				
+					<description>&lt;p&gt;I really like Harlen Cobens writing and have read 4-5 of his books. On of the things I find with thrillers is that they can stray into very dark territory, very quickly. The one before last Jack Reacher novel did the same and in both cases the content clashed with the overall tone.&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+				<link>http://localhost:4444/thrillers/missing-you</link>
+				<guid isPermaLink="true">http://localhost:4444/thrillers/missing-you</guid>
+			</item>
+		
+	</channel>
+</rss>
